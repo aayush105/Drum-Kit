@@ -79,3 +79,12 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+.fab{
+  color: #fff;
+  size: 20px;
+}
+a{
+  color: #fff;
+  text-decoration: none;
+}
